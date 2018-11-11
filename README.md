@@ -1,2 +1,2 @@
 # web-viz-choropleths
-Web Visualizations - U.S. Choropleth Maps
+https://jherronplahn.github.io/web-viz-choropleths/
